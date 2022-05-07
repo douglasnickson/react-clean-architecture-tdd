@@ -22,8 +22,8 @@
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
     "isolatedModules": false,
-    "noEmit": true,
-
+    "noEmit": false,
+    "sourceMap":true
   },
   "include": [
     "src"
